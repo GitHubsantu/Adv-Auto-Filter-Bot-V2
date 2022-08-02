@@ -66,6 +66,10 @@ OR
 #### PR's Are Very Welcome
 
 ## Deploy
+
+#### Deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
